@@ -479,3 +479,19 @@ body {
   border-radius: 12px; /* Optional: rounded corners */
   object-fit: cover; /* Ensure the image covers the container */
 }
+/* Style the email link to look like a button */
+.email-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.email-button:hover {
+    background-color: #45a049;
+}
