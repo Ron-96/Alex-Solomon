@@ -140,7 +140,13 @@ body {
     height: auto;
     margin-bottom: 0.5rem;
 }
-
+/* Media Query for Smaller Screens (Mobile) */
+@media (max-width: 768px) {
+    .logo-container img {
+        width: 80%; /* Reduce the width to 80% of the screen width */
+        margin-bottom: 1rem; /* Adjust margin if needed */
+    }
+}
 /* Navigation Menu */
 .navbar {
     display: flex;
