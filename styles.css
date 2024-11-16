@@ -482,7 +482,7 @@ body {
 /* Style the email link to look like a button */
 .email-button {
     background-color: #4CAF50;
-    color: white;
+    color: rgb(255, 0, 0);
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
