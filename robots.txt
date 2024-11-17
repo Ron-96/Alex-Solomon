@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html  # Optional: Avoid indexing the 404 error page
+Allow: /
